@@ -1,2 +1,3 @@
-# comp2245-assignment1
-Repository to host all push for COMP2245 Assignment 1
+# COMP2245 Assignment 1
+
+This is Assignment 1 for Akeem Richards
